@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBody
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/LeftHip
+    m_Weight: 0
+  - m_Path: Armature/LeftHip/LeftUpLeg
+    m_Weight: 0
+  - m_Path: Armature/LeftHip/LeftUpLeg/LeftLeg
+    m_Weight: 0
+  - m_Path: Armature/LeftHip/LeftUpLeg/LeftLeg/LeftFoot
+    m_Weight: 0
+  - m_Path: Armature/LeftHip/LeftUpLeg/LeftLeg/LeftFoot/LeftFoot_end
+    m_Weight: 0
+  - m_Path: Armature/RightHip
+    m_Weight: 0
+  - m_Path: Armature/RightHip/RightUpLeg
+    m_Weight: 0
+  - m_Path: Armature/RightHip/RightUpLeg/RightLeg
+    m_Weight: 0
+  - m_Path: Armature/RightHip/RightUpLeg/RightLeg/RightFoot
+    m_Weight: 0
+  - m_Path: Armature/RightHip/RightUpLeg/RightLeg/RightFoot/RightFoot_end
+    m_Weight: 0
+  - m_Path: Armature/Spine1
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/Head
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/Head/Head_end
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/LeftShoulder
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/LeftShoulder/LeftArm
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftForeArm
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHand_end
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/RightShoulder
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/RightShoulder/RightArm
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightForeArm
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightForeArm/RightHand
+    m_Weight: 1
+  - m_Path: Armature/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightForeArm/RightHand/RightHand_end
+    m_Weight: 1
+  - m_Path: Papat
+    m_Weight: 0
